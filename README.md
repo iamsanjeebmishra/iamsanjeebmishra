@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=850&lines=Building+Production-Grade+AI+Systems;MERN+Stack+Developer;Deep+Learning+%7C+Computer+Vision+%7C+Research;MCA+in+AI+and+IoT+%40+NIT+Patna+%7C+CGPA+8.33;Cloud+%26+DevOps+%7C+Docker+%7C+CI%2FCD+%7C+Kubernetes;Turning+Ideas+into+Innovation+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&repeat=true&width=850&lines=Building+Production-Grade+Applications;MERN+Stack+Developer;Deep+Learning+%7C+Computer+Vision+%7C+Research;MCA+in+AI+and+IoT+%40+NIT+Patna+%7C+CGPA+8.33;Cloud+%26+DevOps+%7C+AWS+%7C+Docker+%7C+CI%2FCD+%7C+Kubernetes;Turning+Ideas+into+Innovation+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
