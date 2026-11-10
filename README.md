@@ -68,7 +68,7 @@ I work at the intersection of **AI/ML research, computer vision, and full-stack 
 - 💻 **Full-Stack Development:** React.js, Node.js, Express.js
 - 🤖 **AI/ML:** Deep Learning, Computer Vision and LLM Applications
 - 🔬 **Research:** Vision-Language-based Deepfake Detection
-- ☁️ **Cloud & DevOps:** Docker, CI/CD and Kubernetes
+- ☁️ **Cloud & DevOps:** AWS, Docker, CI/CD and Kubernetes
 
 **◈ Open To**
 - SDE Internships and Full-Time Opportunities
